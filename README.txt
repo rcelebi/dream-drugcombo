@@ -1,4 +1,16 @@
 
+## Cross-Validation
+
+ 
+To run 10-fold cross-validation 
+see: Final Pipeline-ManuscriptResults.ipynb
+
+
+```bash 
+ ```
+Command Line
+
+```
 #replace Pubchemid with Smiles and merge known Smiles list with imputed Smiles
 python putSmiles4PubChemID.py ../data/input-data/pubchem2smiles.txt ../data/input-data/Drug_info_release.csv > ../data/input-data/drug_smiles.csv
 
@@ -46,6 +58,11 @@ python createCellLineFeatures.py ../data/features/ch1-train-drugfeatures-1A.txt 
 python createCombFeatures.py ../data/input-data/ch1_leaderBoard_monoTherapy.csv ../data/features/Dream10-drugs-commontarget-matrix.txt ../data/features/Dream10-drugs-commonpathway-matrix.txt  ../data/features/Dream10-drugs-fingerprint-matrix.txt ../data/features/Dream10-drugs-domains.txt ../data/features/Dream10-drugs-topo-sim.txt > ../data/features/ch1-leaderboard-drugfeatures-1A.txt
 
 python createCellLineFeatures.py ../data/features/ch1-leaderboard-drugfeatures-1A.txt ../data/features/Dream10-cell_phenotype_features.txt ../data/features/Dream10-cell-gex-module-mean.txt   ../data/features/Dream10-cell-mutations-cancerpathway-significant.txt ../data/features/Dream10-cell-cnv-genes-cancerpathway.txt > ../data/features/ch1-leaderboard-cell+drugfeatures-1A.txt
+
+
+ 
+ ```
+
 
 
 
