@@ -1,0 +1,152 @@
+>sp|O00141|SGK1_HUMAN Serine/threonine-protein kinase Sgk1 OS=Homo sapiens GN=SGK1 PE=1 SV=2
+>sp|O00329|PK3CD_HUMAN Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform OS=Homo sapiens GN=PIK3CD PE=1 SV=2
+>sp|O00443|P3C2A_HUMAN Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha OS=Homo sapiens GN=PIK3C2A PE=1 SV=2
+>sp|O00744|WN10B_HUMAN Protein Wnt-10b OS=Homo sapiens GN=WNT10B PE=1 SV=2
+>sp|O00750|P3C2B_HUMAN Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit beta OS=Homo sapiens GN=PIK3C2B PE=1 SV=2
+>sp|O00755|WNT7A_HUMAN Protein Wnt-7a OS=Homo sapiens GN=WNT7A PE=1 SV=2
+>sp|O14733|MP2K7_HUMAN Dual specificity mitogen-activated protein kinase kinase 7 OS=Homo sapiens GN=MAP2K7 PE=1 SV=2
+>sp|O14757|CHK1_HUMAN Serine/threonine-protein kinase Chk1 OS=Homo sapiens GN=CHEK1 PE=1 SV=2
+>sp|O14904|WNT9A_HUMAN Protein Wnt-9a OS=Homo sapiens GN=WNT9A PE=2 SV=2
+>sp|O14905|WNT9B_HUMAN Protein Wnt-9b OS=Homo sapiens GN=WNT9B PE=1 SV=3
+>sp|O14920|IKKB_HUMAN Inhibitor of nuclear factor kappa-B kinase subunit beta OS=Homo sapiens GN=IKBKB PE=1 SV=1
+>sp|O14986|PI51B_HUMAN Phosphatidylinositol 4-phosphate 5-kinase type-1 beta OS=Homo sapiens GN=PIP5K1B PE=1 SV=2
+>sp|O15111|IKKA_HUMAN Inhibitor of nuclear factor kappa-B kinase subunit alpha OS=Homo sapiens GN=CHUK PE=1 SV=2
+>sp|O15374|MOT5_HUMAN Monocarboxylate transporter 5 OS=Homo sapiens GN=SLC16A4 PE=2 SV=1
+>sp|O15379|HDAC3_HUMAN Histone deacetylase 3 OS=Homo sapiens GN=HDAC3 PE=1 SV=2
+>sp|O15392|BIRC5_HUMAN Baculoviral IAP repeat-containing protein 5 OS=Homo sapiens GN=BIRC5 PE=1 SV=3
+>sp|O15427|MOT4_HUMAN Monocarboxylate transporter 4 OS=Homo sapiens GN=SLC16A3 PE=1 SV=1
+>sp|O60331|PI51C_HUMAN Phosphatidylinositol 4-phosphate 5-kinase type-1 gamma OS=Homo sapiens GN=PIP5K1C PE=1 SV=2
+>sp|O60674|JAK2_HUMAN Tyrosine-protein kinase JAK2 OS=Homo sapiens GN=JAK2 PE=1 SV=2
+>sp|O75469|NR1I2_HUMAN Nuclear receptor subfamily 1 group I member 2 OS=Homo sapiens GN=NR1I2 PE=1 SV=1
+>sp|O75747|P3C2G_HUMAN Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit gamma OS=Homo sapiens GN=PIK3C2G PE=1 SV=3
+>sp|O95163|ELP1_HUMAN Elongator complex protein 1 OS=Homo sapiens GN=IKBKAP PE=1 SV=3
+>sp|O95271|TNKS1_HUMAN Tankyrase-1 OS=Homo sapiens GN=TNKS PE=1 SV=2
+>sp|O95985|TOP3B_HUMAN DNA topoisomerase 3-beta-1 OS=Homo sapiens GN=TOP3B PE=1 SV=1
+>sp|O96014|WNT11_HUMAN Protein Wnt-11 OS=Homo sapiens GN=WNT11 PE=1 SV=2
+>sp|P00533|EGFR_HUMAN Epidermal growth factor receptor OS=Homo sapiens GN=EGFR PE=1 SV=2
+>sp|P03372|ESR1_HUMAN Estrogen receptor OS=Homo sapiens GN=ESR1 PE=1 SV=2
+>sp|P04049|RAF1_HUMAN RAF proto-oncogene serine/threonine-protein kinase OS=Homo sapiens GN=RAF1 PE=1 SV=1
+>sp|P04626|ERBB2_HUMAN Receptor tyrosine-protein kinase erbB-2 OS=Homo sapiens GN=ERBB2 PE=1 SV=1
+>sp|P04628|WNT1_HUMAN Proto-oncogene Wnt-1 OS=Homo sapiens GN=WNT1 PE=1 SV=1
+>sp|P04818|TYSY_HUMAN Thymidylate synthase OS=Homo sapiens GN=TYMS PE=1 SV=3
+>sp|P05129|KPCG_HUMAN Protein kinase C gamma type OS=Homo sapiens GN=PRKCG PE=1 SV=3
+>sp|P05771|KPCB_HUMAN Protein kinase C beta type OS=Homo sapiens GN=PRKCB PE=1 SV=4
+>sp|P07437|TBB5_HUMAN Tubulin beta chain OS=Homo sapiens GN=TUBB PE=1 SV=2
+>sp|P07900|HS90A_HUMAN Heat shock protein HSP 90-alpha OS=Homo sapiens GN=HSP90AA1 PE=1 SV=5
+>sp|P07949|RET_HUMAN Proto-oncogene tyrosine-protein kinase receptor Ret OS=Homo sapiens GN=RET PE=1 SV=3
+>sp|P08069|IGF1R_HUMAN Insulin-like growth factor 1 receptor OS=Homo sapiens GN=IGF1R PE=1 SV=1
+>sp|P08581|MET_HUMAN Hepatocyte growth factor receptor OS=Homo sapiens GN=MET PE=1 SV=4
+>sp|P09544|WNT2_HUMAN Protein Wnt-2 OS=Homo sapiens GN=WNT2 PE=2 SV=1
+>sp|P09874|PARP1_HUMAN Poly [ADP-ribose] polymerase 1 OS=Homo sapiens GN=PARP1 PE=1 SV=4
+>sp|P10275|ANDR_HUMAN Androgen receptor OS=Homo sapiens GN=AR PE=1 SV=2
+>sp|P10415|BCL2_HUMAN Apoptosis regulator Bcl-2 OS=Homo sapiens GN=BCL2 PE=1 SV=2
+>sp|P10636|TAU_HUMAN Microtubule-associated protein tau OS=Homo sapiens GN=MAPT PE=1 SV=5
+>sp|P11137|MTAP2_HUMAN Microtubule-associated protein 2 OS=Homo sapiens GN=MAP2 PE=1 SV=4
+>sp|P11309|PIM1_HUMAN Serine/threonine-protein kinase pim-1 OS=Homo sapiens GN=PIM1 PE=1 SV=3
+>sp|P11362|FGFR1_HUMAN Fibroblast growth factor receptor 1 OS=Homo sapiens GN=FGFR1 PE=1 SV=3
+>sp|P11387|TOP1_HUMAN DNA topoisomerase 1 OS=Homo sapiens GN=TOP1 PE=1 SV=2
+>sp|P11388|TOP2A_HUMAN DNA topoisomerase 2-alpha OS=Homo sapiens GN=TOP2A PE=1 SV=3
+>sp|P11717|MPRI_HUMAN Cation-independent mannose-6-phosphate receptor OS=Homo sapiens GN=IGF2R PE=1 SV=3
+>sp|P12931|SRC_HUMAN Proto-oncogene tyrosine-protein kinase Src OS=Homo sapiens GN=SRC PE=1 SV=3
+>sp|P14314|GLU2B_HUMAN Glucosidase 2 subunit beta OS=Homo sapiens GN=PRKCSH PE=1 SV=2
+>sp|P15056|BRAF_HUMAN Serine/threonine-protein kinase B-raf OS=Homo sapiens GN=BRAF PE=1 SV=4
+>sp|P15391|CD19_HUMAN B-lymphocyte antigen CD19 OS=Homo sapiens GN=CD19 PE=1 SV=6
+>sp|P16234|PGFRA_HUMAN Platelet-derived growth factor receptor alpha OS=Homo sapiens GN=PDGFRA PE=1 SV=1
+>sp|P17252|KPCA_HUMAN Protein kinase C alpha type OS=Homo sapiens GN=PRKCA PE=1 SV=4
+>sp|P17948|VGFR1_HUMAN Vascular endothelial growth factor receptor 1 OS=Homo sapiens GN=FLT1 PE=1 SV=2
+>sp|P21802|FGFR2_HUMAN Fibroblast growth factor receptor 2 OS=Homo sapiens GN=FGFR2 PE=1 SV=1
+>sp|P21860|ERBB3_HUMAN Receptor tyrosine-protein kinase erbB-3 OS=Homo sapiens GN=ERBB3 PE=1 SV=1
+>sp|P22455|FGFR4_HUMAN Fibroblast growth factor receptor 4 OS=Homo sapiens GN=FGFR4 PE=1 SV=2
+>sp|P22607|FGFR3_HUMAN Fibroblast growth factor receptor 3 OS=Homo sapiens GN=FGFR3 PE=1 SV=1
+>sp|P23458|JAK1_HUMAN Tyrosine-protein kinase JAK1 OS=Homo sapiens GN=JAK1 PE=1 SV=2
+>sp|P23921|RIR1_HUMAN Ribonucleoside-diphosphate reductase large subunit OS=Homo sapiens GN=RRM1 PE=1 SV=1
+>sp|P24723|KPCL_HUMAN Protein kinase C eta type OS=Homo sapiens GN=PRKCH PE=1 SV=4
+>sp|P26358|DNMT1_HUMAN DNA (cytosine-5)-methyltransferase 1 OS=Homo sapiens GN=DNMT1 PE=1 SV=2
+>sp|P27816|MAP4_HUMAN Microtubule-associated protein 4 OS=Homo sapiens GN=MAP4 PE=1 SV=3
+>sp|P30085|KCY_HUMAN UMP-CMP kinase OS=Homo sapiens GN=CMPK1 PE=1 SV=3
+>sp|P30291|WEE1_HUMAN Wee1-like protein kinase OS=Homo sapiens GN=WEE1 PE=1 SV=2
+>sp|P31749|AKT1_HUMAN RAC-alpha serine/threonine-protein kinase OS=Homo sapiens GN=AKT1 PE=1 SV=2
+>sp|P31751|AKT2_HUMAN RAC-beta serine/threonine-protein kinase OS=Homo sapiens GN=AKT2 PE=1 SV=2
+>sp|P33981|TTK_HUMAN Dual specificity protein kinase TTK OS=Homo sapiens GN=TTK PE=1 SV=2
+>sp|P35916|VGFR3_HUMAN Vascular endothelial growth factor receptor 3 OS=Homo sapiens GN=FLT4 PE=1 SV=3
+>sp|P35968|VGFR2_HUMAN Vascular endothelial growth factor receptor 2 OS=Homo sapiens GN=KDR PE=1 SV=2
+>sp|P36507|MP2K2_HUMAN Dual specificity mitogen-activated protein kinase kinase 2 OS=Homo sapiens GN=MAP2K2 PE=1 SV=1
+>sp|P41221|WNT5A_HUMAN Protein Wnt-5a OS=Homo sapiens GN=WNT5A PE=1 SV=2
+>sp|P41743|KPCI_HUMAN Protein kinase C iota type OS=Homo sapiens GN=PRKCI PE=1 SV=2
+>sp|P42336|PK3CA_HUMAN Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform OS=Homo sapiens GN=PIK3CA PE=1 SV=2
+>sp|P42338|PK3CB_HUMAN Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit beta isoform OS=Homo sapiens GN=PIK3CB PE=1 SV=1
+>sp|P42345|MTOR_HUMAN Serine/threonine-protein kinase mTOR OS=Homo sapiens GN=MTOR PE=1 SV=1
+>sp|P43405|KSYK_HUMAN Tyrosine-protein kinase SYK OS=Homo sapiens GN=SYK PE=1 SV=1
+>sp|P45985|MP2K4_HUMAN Dual specificity mitogen-activated protein kinase kinase 4 OS=Homo sapiens GN=MAP2K4 PE=1 SV=1
+>sp|P46734|MP2K3_HUMAN Dual specificity mitogen-activated protein kinase kinase 3 OS=Homo sapiens GN=MAP2K3 PE=1 SV=2
+>sp|P48736|PK3CG_HUMAN Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform OS=Homo sapiens GN=PIK3CG PE=1 SV=3
+>sp|P49327|FAS_HUMAN Fatty acid synthase OS=Homo sapiens GN=FASN PE=1 SV=3
+>sp|P49354|FNTA_HUMAN Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha OS=Homo sapiens GN=FNTA PE=1 SV=1
+>sp|P49356|FNTB_HUMAN Protein farnesyltransferase subunit beta OS=Homo sapiens GN=FNTB PE=1 SV=1
+>sp|P50591|TNF10_HUMAN Tumor necrosis factor ligand superfamily member 10 OS=Homo sapiens GN=TNFSF10 PE=1 SV=1
+>sp|P52564|MP2K6_HUMAN Dual specificity mitogen-activated protein kinase kinase 6 OS=Homo sapiens GN=MAP2K6 PE=1 SV=1
+>sp|P52732|KIF11_HUMAN Kinesin-like protein KIF11 OS=Homo sapiens GN=KIF11 PE=1 SV=2
+>sp|P56524|HDAC4_HUMAN Histone deacetylase 4 OS=Homo sapiens GN=HDAC4 PE=1 SV=3
+>sp|P56703|WNT3_HUMAN Proto-oncogene Wnt-3 OS=Homo sapiens GN=WNT3 PE=1 SV=2
+>sp|P56704|WNT3A_HUMAN Protein Wnt-3a OS=Homo sapiens GN=WNT3A PE=1 SV=2
+>sp|P56705|WNT4_HUMAN Protein Wnt-4 OS=Homo sapiens GN=WNT4 PE=1 SV=4
+>sp|P56706|WNT7B_HUMAN Protein Wnt-7b OS=Homo sapiens GN=WNT7B PE=2 SV=2
+>sp|P68400|CSK21_HUMAN Casein kinase II subunit alpha OS=Homo sapiens GN=CSNK2A1 PE=1 SV=1
+>sp|P78527|PRKDC_HUMAN DNA-dependent protein kinase catalytic subunit OS=Homo sapiens GN=PRKDC PE=1 SV=3
+>sp|P78536|ADA17_HUMAN Disintegrin and metalloproteinase domain-containing protein 17 OS=Homo sapiens GN=ADAM17 PE=1 SV=1
+>sp|P98170|XIAP_HUMAN E3 ubiquitin-protein ligase XIAP OS=Homo sapiens GN=XIAP PE=1 SV=2
+>sp|Q02156|KPCE_HUMAN Protein kinase C epsilon type OS=Homo sapiens GN=PRKCE PE=1 SV=1
+>sp|Q02750|MP2K1_HUMAN Dual specificity mitogen-activated protein kinase kinase 1 OS=Homo sapiens GN=MAP2K1 PE=1 SV=2
+>sp|Q02763|TIE2_HUMAN Angiopoietin-1 receptor OS=Homo sapiens GN=TEK PE=1 SV=2
+>sp|Q02880|TOP2B_HUMAN DNA topoisomerase 2-beta OS=Homo sapiens GN=TOP2B PE=1 SV=3
+>sp|Q04759|KPCT_HUMAN Protein kinase C theta type OS=Homo sapiens GN=PRKCQ PE=1 SV=3
+>sp|Q05513|KPCZ_HUMAN Protein kinase C zeta type OS=Homo sapiens GN=PRKCZ PE=1 SV=4
+>sp|Q05655|KPCD_HUMAN Protein kinase C delta type OS=Homo sapiens GN=PRKCD PE=1 SV=2
+>sp|Q07817|B2CL1_HUMAN Bcl-2-like protein 1 OS=Homo sapiens GN=BCL2L1 PE=1 SV=1
+>sp|Q13163|MP2K5_HUMAN Dual specificity mitogen-activated protein kinase kinase 5 OS=Homo sapiens GN=MAP2K5 PE=1 SV=2
+>sp|Q13315|ATM_HUMAN Serine-protein kinase ATM OS=Homo sapiens GN=ATM PE=1 SV=4
+>sp|Q13472|TOP3A_HUMAN DNA topoisomerase 3-alpha OS=Homo sapiens GN=TOP3A PE=1 SV=1
+>sp|Q13489|BIRC3_HUMAN Baculoviral IAP repeat-containing protein 3 OS=Homo sapiens GN=BIRC3 PE=1 SV=2
+>sp|Q13490|BIRC2_HUMAN Baculoviral IAP repeat-containing protein 2 OS=Homo sapiens GN=BIRC2 PE=1 SV=2
+>sp|Q13535|ATR_HUMAN Serine/threonine-protein kinase ATR OS=Homo sapiens GN=ATR PE=1 SV=3
+>sp|Q13547|HDAC1_HUMAN Histone deacetylase 1 OS=Homo sapiens GN=HDAC1 PE=1 SV=1
+>sp|Q13564|ULA1_HUMAN NEDD8-activating enzyme E1 regulatory subunit OS=Homo sapiens GN=NAE1 PE=1 SV=1
+>sp|Q14164|IKKE_HUMAN Inhibitor of nuclear factor kappa-B kinase subunit epsilon OS=Homo sapiens GN=IKBKE PE=1 SV=1
+>sp|Q14289|FAK2_HUMAN Protein-tyrosine kinase 2-beta OS=Homo sapiens GN=PTK2B PE=1 SV=2
+>sp|Q15303|ERBB4_HUMAN Receptor tyrosine-protein kinase erbB-4 OS=Homo sapiens GN=ERBB4 PE=1 SV=1
+>sp|Q2NL67|PARP6_HUMAN Poly [ADP-ribose] polymerase 6 OS=Homo sapiens GN=PARP6 PE=2 SV=1
+>sp|Q5SR53|CA200_HUMAN Putative uncharacterized protein PIK3CD-AS1 OS=Homo sapiens GN=PIK3CD-AS1 PE=2 SV=1
+>sp|Q8N9V7|TOPZ1_HUMAN Testis- and ovary-specific PAZ domain-containing protein 1 OS=Homo sapiens GN=TOPAZ1 PE=2 SV=3
+>sp|Q8NEB9|PK3C3_HUMAN Phosphatidylinositol 3-kinase catalytic subunit type 3 OS=Homo sapiens GN=PIK3C3 PE=1 SV=1
+>sp|Q8TBC4|UBA3_HUMAN NEDD8-activating enzyme E1 catalytic subunit OS=Homo sapiens GN=UBA3 PE=1 SV=2
+>sp|Q8WUI4|HDAC7_HUMAN Histone deacetylase 7 OS=Homo sapiens GN=HDAC7 PE=1 SV=2
+>sp|Q92547|TOPB1_HUMAN DNA topoisomerase 2-binding protein 1 OS=Homo sapiens GN=TOPBP1 PE=1 SV=3
+>sp|Q92769|HDAC2_HUMAN Histone deacetylase 2 OS=Homo sapiens GN=HDAC2 PE=1 SV=2
+>sp|Q92843|B2CL2_HUMAN Bcl-2-like protein 2 OS=Homo sapiens GN=BCL2L2 PE=1 SV=2
+>sp|Q93097|WNT2B_HUMAN Protein Wnt-2b OS=Homo sapiens GN=WNT2B PE=1 SV=2
+>sp|Q93098|WNT8B_HUMAN Protein Wnt-8b OS=Homo sapiens GN=WNT8B PE=2 SV=3
+>sp|Q969G5|PRDBP_HUMAN Protein kinase C delta-binding protein OS=Homo sapiens GN=PRKCDBP PE=1 SV=3
+>sp|Q969P6|TOP1M_HUMAN DNA topoisomerase I, mitochondrial OS=Homo sapiens GN=TOP1MT PE=1 SV=1
+>sp|Q969S8|HDA10_HUMAN Histone deacetylase 10 OS=Homo sapiens GN=HDAC10 PE=1 SV=1
+>sp|Q96B36|AKTS1_HUMAN Proline-rich AKT1 substrate 1 OS=Homo sapiens GN=AKT1S1 PE=1 SV=1
+>sp|Q96BR1|SGK3_HUMAN Serine/threonine-protein kinase Sgk3 OS=Homo sapiens GN=SGK3 PE=1 SV=1
+>sp|Q96DB2|HDA11_HUMAN Histone deacetylase 11 OS=Homo sapiens GN=HDAC11 PE=1 SV=1
+>sp|Q96RT1|LAP2_HUMAN Protein LAP2 OS=Homo sapiens GN=ERBB2IP PE=1 SV=2
+>sp|Q99755|PI51A_HUMAN Phosphatidylinositol 4-phosphate 5-kinase type-1 alpha OS=Homo sapiens GN=PIP5K1A PE=1 SV=1
+>sp|Q9BY41|HDAC8_HUMAN Histone deacetylase 8 OS=Homo sapiens GN=HDAC8 PE=1 SV=2
+>sp|Q9GZT5|WN10A_HUMAN Protein Wnt-10a OS=Homo sapiens GN=WNT10A PE=1 SV=1
+>sp|Q9H1J5|WNT8A_HUMAN Protein Wnt-8a OS=Homo sapiens GN=WNT8A PE=2 SV=2
+>sp|Q9H1J7|WNT5B_HUMAN Protein Wnt-5b OS=Homo sapiens GN=WNT5B PE=2 SV=2
+>sp|Q9H4B7|TBB1_HUMAN Tubulin beta-1 chain OS=Homo sapiens GN=TUBB1 PE=1 SV=1
+>sp|Q9H665|IGFR1_HUMAN IGF-like family receptor 1 OS=Homo sapiens GN=IGFLR1 PE=1 SV=1
+>sp|Q9H8T0|AKTIP_HUMAN AKT-interacting protein OS=Homo sapiens GN=AKTIP PE=1 SV=1
+>sp|Q9HBY8|SGK2_HUMAN Serine/threonine-protein kinase Sgk2 OS=Homo sapiens GN=SGK2 PE=1 SV=1
+>sp|Q9NS56|TOPRS_HUMAN E3 ubiquitin-protein ligase Topors OS=Homo sapiens GN=TOPORS PE=1 SV=1
+>sp|Q9UBN7|HDAC6_HUMAN Histone deacetylase 6 OS=Homo sapiens GN=HDAC6 PE=1 SV=2
+>sp|Q9UBV4|WNT16_HUMAN Protein Wnt-16 OS=Homo sapiens GN=WNT16 PE=2 SV=1
+>sp|Q9UKV0|HDAC9_HUMAN Histone deacetylase 9 OS=Homo sapiens GN=HDAC9 PE=1 SV=2
+>sp|Q9UM73|ALK_HUMAN ALK tyrosine kinase receptor OS=Homo sapiens GN=ALK PE=1 SV=3
+>sp|Q9UQL6|HDAC5_HUMAN Histone deacetylase 5 OS=Homo sapiens GN=HDAC5 PE=1 SV=2
+>sp|Q9Y243|AKT3_HUMAN RAC-gamma serine/threonine-protein kinase OS=Homo sapiens GN=AKT3 PE=1 SV=1
+>sp|Q9Y6F9|WNT6_HUMAN Protein Wnt-6 OS=Homo sapiens GN=WNT6 PE=1 SV=2
+>sp|Q9Y6K9|NEMO_HUMAN NF-kappa-B essential modulator OS=Homo sapiens GN=IKBKG PE=1 SV=2
